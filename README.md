@@ -1,6 +1,6 @@
 # webpack-vuecli
 
-> test vue-cli inset webpack :vue-cli version 2.9.3
+> test vue-cli inset webpack 注:vue-cli version 2.9.3
 
 ## Build Setup
 
